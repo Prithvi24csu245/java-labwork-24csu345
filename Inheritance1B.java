@@ -19,8 +19,9 @@ class CircleImpl implements Circle {
 public class Inheritance1B {
     public static void main(String[] args) {
         CircleImpl c = new CircleImpl();
-        System.out.println("Kunal 24csu338");
+        System.out.println("Prithviraj 24csu345");
         c.draw();
         c.area();
     }
 }
+
