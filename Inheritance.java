@@ -25,9 +25,10 @@ class Dog extends Animal implements Pet, Friendly {
 public class Inheritance {
     public static void main(String[] args) {
         Dog d = new Dog();
-        System.out.println("Kunal 24csu338");
+        System.out.println("Prithviraj 24csu345");
         d.eat();
         d.play();
         d.greet();
     }
 }
+
