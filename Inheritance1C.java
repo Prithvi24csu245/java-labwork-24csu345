@@ -27,9 +27,10 @@ class Demo implements C {
 public class Inheritance1C {
     public static void main(String[] args) {
         Demo obj = new Demo();
-        System.out.println("Kunal 24csu338");
+        System.out.println("Prithviraj 24csu345");
         obj.methodA();
         obj.methodB();
         obj.method();
     }
 }
+
