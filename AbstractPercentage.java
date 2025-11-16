@@ -37,9 +37,10 @@ public class AbstractPercentage {
     public static void main(String[] args) {
         A studentA = new A(85, 90, 95);
         B studentB = new B(80, 75, 85, 90);
-        System.out.println("Kunal 24csu338");
+        System.out.println("prithvi  24csu345");
 
         System.out.println("Percentage of Student A: " + studentA.getPercentage() + "%");
         System.out.println("Percentage of Student B: " + studentB.getPercentage() + "%");
     }
 }
+
