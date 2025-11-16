@@ -26,10 +26,11 @@ public class BankMain {
         BankB b = new BankB();
         BankC c = new BankC();
         
-        System.out.println("Kunal 24csu338");
+        System.out.println("Prithviraj 24csu345");
 
         a.getBalance();
         b.getBalance();
         c.getBalance();
     }
 }
+
