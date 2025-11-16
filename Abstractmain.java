@@ -25,9 +25,10 @@ class Area extends Shape {
 public class Abstractmain {
     public static void main(String[] args) {
         Area obj = new Area();
-        System.out.println("Kunal 24csu338");
+        System.out.println("Prithviraj 24csu345");
         obj.RectangleArea(5, 3);
         obj.SquareArea(4);
         obj.CircleArea(2.5);
     }
 }
+
