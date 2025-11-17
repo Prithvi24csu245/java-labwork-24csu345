@@ -1,5 +1,4 @@
-//Monish rao
-//24csu321
+
 import java.util.Scanner;
 class Calculator
 {
@@ -12,6 +11,7 @@ class Calculator
 	int b = sc.nextInt();
 	int sum =a+b;
 	System.out.print("\nAddition of two numbers = "+sum);
+		System.out.print(" Prithviraj 24csu345")
 	if(a>b){
 	int dif =a-b;
 	System.out.print("\nDifference of two numbers = "+dif);
@@ -37,4 +37,5 @@ class Calculator
 	System.out.print("\nDivision of two numbers = 1");
 	}
 	}
+
 }
