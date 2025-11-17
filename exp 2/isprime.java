@@ -4,7 +4,7 @@ import java.util.Scanner;
 class isprime{
 	public static void main(String args[]){
 	Scanner sc = new Scanner (System.in);
-	System.out.print("Monish Rao,rollno. = 24csu321 ");
+	System.out.print(" Prithviraj 24csu345");
 	System.out.print("Enter a no. = ");
 	int a = sc.nextInt();
 	int count = 0;
@@ -21,4 +21,5 @@ class isprime{
 		System.out.print("Entered number is not a prime number");
 	}
 	}
+
 }
