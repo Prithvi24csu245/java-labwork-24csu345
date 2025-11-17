@@ -3,7 +3,7 @@ import java.util.Scanner;
 class roots{
 	public static void main(String args[]){
 	Scanner sc = new Scanner (System.in);
-	System.out.print("Monish Rao,rollno. = 24csu321 ");
+	System.out.print(" Prithviraj 24csu345");
 	System.out.print("Enter a b c to find roots of that equation = ");
 	int a = sc.nextInt();
 	int b = sc.nextInt();
@@ -26,4 +26,5 @@ class roots{
 			System.out.println("Roots are: " + rr1 + " + " + ir1 + "i , " + rr1 + " - " + ir1 + "i");
 		}	
 	}
+
 }
