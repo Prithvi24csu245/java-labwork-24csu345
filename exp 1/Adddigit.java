@@ -1,5 +1,4 @@
-//Monish rao
-//24csu321
+
 import java.util.Scanner;
 class Adddigit{
 	public static void main(String args[]){
@@ -13,4 +12,5 @@ class Adddigit{
 		int sum = d1+d2+d3;
 		System.out.print("Sum of all digits = "+sum);
 	}
+
 }
