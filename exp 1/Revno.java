@@ -1,5 +1,4 @@
-//Monish rao
-//24csu321
+
 import java.util.Scanner;
 
 class Revno {
@@ -16,5 +15,8 @@ class Revno {
         }
 
         System.out.println("Reverse of this number = " + rev);
+        System.out.print(" Prithviraj 24csu345")
+            
     }
 }
+
