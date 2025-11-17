@@ -5,7 +5,7 @@ class Min {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Monish Rao, rollno. = 24csu321 ");
+        
         System.out.print("\nEnter minutes = ");
         int a = sc.nextInt();
 
@@ -20,4 +20,5 @@ class Min {
         System.out.print(" Prithviraj 24csu345")
     }
 }
+
 
