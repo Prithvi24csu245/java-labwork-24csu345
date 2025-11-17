@@ -4,7 +4,7 @@ class Calculator
 {
 	public static void main(String args[]){
 	Scanner sc = new Scanner(System.in);
-	System.out.print("Monish Rao,rollno. = 24csu321 ");
+	System.out.print("Prithviraj 24csu345");
 	System.out.print("\nEnter 1st no. = ");
 	int a = sc.nextInt();
 	System.out.print("\nEnter 2nd no. = ");
@@ -39,3 +39,4 @@ class Calculator
 	}
 
 }
+
