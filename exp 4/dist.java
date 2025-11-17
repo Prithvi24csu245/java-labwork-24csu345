@@ -24,8 +24,7 @@ class Point {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Rupesh Saini");
-        System.out.println("24CSU259");
+        System.out.print(" Prithviraj 24csu345");
         System.out.println("Enter the coordinates for Point 1:");
         System.out.print("Enter x1: ");
         float x1 = sc.nextFloat();
@@ -47,4 +46,5 @@ class Point {
         System.out.printf("\nDistance: %.2f\n", distance);
         sc.close();
     }
+
 }
