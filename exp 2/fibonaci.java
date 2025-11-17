@@ -3,7 +3,7 @@ import java.util.Scanner;
 class fibonaci{
 	public static void main(String args[]){
 	Scanner sc = new Scanner (System.in);
-	System.out.print("Monish Rao,rollno. = 24csu321 ");
+	System.out.print(" Prithviraj 24csu345");
 		int a=0;
 		int b=1;
 		int c;
@@ -17,4 +17,5 @@ class fibonaci{
 			b=c;
 		}
 	}
+
 }
