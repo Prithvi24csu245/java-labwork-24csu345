@@ -46,5 +46,7 @@ class Q2 {
         rc1.resize(50);
         System.out.println("After resizing to 50% = ");
         System.out.println(rc1);
+        System.out.print(" Prithviraj 24csu345");
     }
+
 }
