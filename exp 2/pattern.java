@@ -3,7 +3,7 @@ import java.util.Scanner;
 class pattern{
 	public static void main(String args[]){
 		Scanner sc = new Scanner (System.in);
-		System.out.print("Monish Rao,rollno. = 24csu321 ");
+		System.out.print(" Prithviraj 24csu345");
 		int n=sc.nextInt();
 		System.out.print("Pyramid:\n");
 		for(int i=0;i<n;i++){
@@ -36,4 +36,5 @@ class pattern{
 			System.out.println();
 		}
 	}
+
 }
