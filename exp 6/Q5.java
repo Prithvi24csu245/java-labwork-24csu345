@@ -27,8 +27,7 @@ class B extends Marks{
 }
 class Q5{
 	public static void main(String args[]){
-		System.out.println("Monish");
-        System.out.println("24csu321");
+		System.out.print(" Prithviraj 24csu345");
 		int a,b,c,d,e,f,g;
 		Scanner sc = new Scanner (System.in);
 		System.out.print("Enter marks for three subjects of student A = ");
@@ -46,3 +45,4 @@ class Q5{
 		stu.getPercentage();
 	}
 }
+
