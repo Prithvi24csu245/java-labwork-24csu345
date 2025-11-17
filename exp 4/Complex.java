@@ -31,7 +31,7 @@ class Complex {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Name: Monsih Rao \nroll no.: 24csu321 ");
+        System.out.print(" Prithviraj 24csu345");
         System.out.print("Enter real part of first complex number: ");
         int r1 = sc.nextInt();
         System.out.print("Enter imaginary part of first complex number: ");
@@ -56,3 +56,4 @@ class Complex {
         prod.display();
     }
 }
+
