@@ -18,8 +18,7 @@ class Bike extends Vehicle{
 class Q2{
 	public static void main(String args[]){
 	Scanner sc = new Scanner(System.in);
-	System.out.println("Monish rao");
-	System.out.println("24CSU321");
+	System.out.print(" Prithviraj 24csu345");
 	int N = sc.nextInt();
 	if(N==2){
 		Bike a = new Bike();
@@ -34,4 +33,5 @@ class Q2{
 		a.display();
 	}
 	}
+
 }
