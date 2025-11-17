@@ -37,8 +37,8 @@ class ResizableCircle extends Circle implements Resizable {
 }
 class Q2 {
     public static void main(String[] args) {
-       System.out.println("Monish");
-        System.out.println("24csu321");
+       System.out.println("prithviraj");
+        System.out.println("24csu345");
         Circle c1 = new Circle(5.0);
         System.out.println(c1);
         ResizableCircle rc1 = new ResizableCircle(10.0);
@@ -50,3 +50,4 @@ class Q2 {
     }
 
 }
+
