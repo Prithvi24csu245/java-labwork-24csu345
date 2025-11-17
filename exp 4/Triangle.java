@@ -11,7 +11,7 @@ public class Triangle {
         int perimeter = a + b + c;
         double s = perimeter / 2.0;
         double area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
-        System.out.println("Name: Monsih Rao \nroll no.: 24csu321 ");
+        System.out.print(" Prithviraj 24csu345");
         System.out.println("Perimeter: " + perimeter);
         System.out.println("Area: " + area);
     }
@@ -23,4 +23,5 @@ public class Triangle {
 }
  
     
+
 
