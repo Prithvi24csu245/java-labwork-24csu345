@@ -1,5 +1,4 @@
-//Monish rao
-//24csu321
+
 import java.util.Scanner;
 
 class Min {
@@ -18,5 +17,7 @@ class Min {
         System.out.println("Year  = " + years);
         System.out.println("Month = " + months);
         System.out.println("Days  = " + days);
+        System.out.print(" Prithviraj 24csu345")
     }
 }
+
