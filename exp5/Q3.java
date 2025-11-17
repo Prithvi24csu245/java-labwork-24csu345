@@ -27,8 +27,7 @@ class Boxweight extends Box{
 }
 class Q3{
 	public static void main(String args[]){
-	System.out.println("Monish Rao");
-	System.out.println("24CSU321");
+	System.out.print(" Prithviraj 24csu345");
 	Boxweight mybox1 = new Boxweight(10f,20f,15f,34.3f);
 	Boxweight mybox2 = new Boxweight(2f,3f,4f,0.076f);
 	float vol;
@@ -41,4 +40,5 @@ class Q3{
 	System.out.println("Weight of mybox2 = "+mybox2.weight);
 	System.out.println();
 	}
+
 }
