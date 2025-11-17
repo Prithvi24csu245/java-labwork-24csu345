@@ -24,11 +24,11 @@ class Dog extends Animal implements Pet, Wild {
 
 public class TestA {
     public static void main(String[] args) {
-        System.out.println("Monish");
-        System.out.println("24csu321");
+        System.out.print(" Prithviraj 24csu345");
         Dog d = new Dog();
         d.eat();   
         d.play();  
         d.hunt(); 
     }
 }
+
