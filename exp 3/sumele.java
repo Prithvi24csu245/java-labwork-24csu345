@@ -28,5 +28,7 @@ class sumele{
 		}
 	}
 	System.out.print("Sum of alternate elements of an array = "+sum2);
+		System.out.print(" Prithviraj 24csu345");
 	}
+
 }
