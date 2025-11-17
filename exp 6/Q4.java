@@ -18,8 +18,7 @@ class BankC extends Bank{
 }
 class Q4{
 	public static void main(String args[]){
-	    System.out.println("Monish");
-        System.out.println("24csu321");
+	    System.out.print(" Prithviraj 24csu345");
 		BankA a = new BankA();
 		a.getBalance();
 		BankB b = new BankB();
@@ -27,4 +26,5 @@ class Q4{
 		BankC c = new BankC();
 		c.getBalance();
 	}
+
 }
