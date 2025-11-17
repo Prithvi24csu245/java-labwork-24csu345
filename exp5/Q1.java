@@ -23,8 +23,9 @@ class Circle extends Shape{
 class Q1{
 	public static void main(String args[]){
 	Scanner sc = new Scanner(System.in);
-	System.out.println("Name: Monsih Rao \nroll no.: 24csu321 ");
+	System.out.print(" Prithviraj 24csu345");
 	Square a = new Square();
 	Circle b = new Circle();
 	}
+
 }
