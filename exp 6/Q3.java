@@ -19,11 +19,11 @@ class Area extends Shape {
 }
 public class Q3{
     public static void main(String[] args) {
-         System.out.println("Monish");
-        System.out.println("24csu321");
+        System.out.print(" Prithviraj 24csu345");
         Area obj = new Area();
         obj.RectangleArea(10, 5);  
         obj.SquareArea(4);         
         obj.CircleArea(3);         
     }
+
 }
