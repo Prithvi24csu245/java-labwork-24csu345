@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SearchElement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Monsih Rao Roll no.:24csu321");
+        System.out.print(" Prithviraj 24csu345");
         System.out.print("Enter number of elements: ");
         int n = sc.nextInt();
         int[] arr = new int[n];
@@ -26,3 +26,4 @@ public class SearchElement {
         }
     }
 }
+
