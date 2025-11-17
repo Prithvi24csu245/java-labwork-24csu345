@@ -5,7 +5,7 @@ class CheckArgumentException extends Exception {
 }
 public class Q1 {
     public static void main(String[] args) {
-        System.out.println("Monish Yadav\n24CSU321");
+        System.out.print(" Prithviraj 24csu345");
         try {
             if (args.length<5) {
                 throw new CheckArgumentException("Error:Enter exactly 5 integer arguments.");
@@ -21,4 +21,5 @@ public class Q1 {
             System.out.println("Error: Please enter valid integers only.");
         }
     }
+
 }
