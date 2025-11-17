@@ -24,7 +24,9 @@ class duplicate{
     }
     if(!dup){
         System.out.print(arr[i] + " ");
+		System.out.print(" Prithviraj 24csu345");
     }
 	}
 	}
+
 }
